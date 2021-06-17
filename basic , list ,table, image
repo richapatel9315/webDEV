@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<head>
+    <title> monkey</title>
+</head>
+    
+<body style="background-color: hotpink;">
+    <h1 style="text-align: center;">MY WEB PAGE </h1> 
+    <br> <br>
+
+    <p1 style="background-color: cyan;"> this is my bander</p1>
+    <br> <br>
+
+    <p2 title="love" style="background-color: rgb(20, 161, 255);"><b> <marquee>Life is the flower for which love is the honey.</marquee></p2>
+        <br> <br>
+
+        <p3 title="love" style="background-color: rgb(255, 190, 105);"> I need you like a heart needs a beat. </p3>
+        <br> <br>
+
+        <p3 title="cute" style="background-color: lightcoral;"> Love is life.</p3>
+        <br> <br>
+       
+        <p4 title="link" style="background-color: darksalmon;"><a href="htpps://www.google.com" >"this is a link" </p4>
+            <br>  <br>  
+            <img src="hii.jpg" alt="img " width="70%" height="70%">
+
+            <br> <br>
+
+                    <audio controls>
+
+                        <source src="music.mp3" type="audio/mp3"> </audio>
+                        <br> <br>
+
+           <audio controls>
+
+            <source src="song.mp3" type="audio/mp3"> </audio>
+            <br> <br>
+
+            <audio controls>
+
+                <source src="sweet.mp3" type="audio/mp3"> </audio>
+                <br> <br> 
+                <video wwidth="340%" height="245%" controls>
+
+                    <source src="vs.mp4" type="video/mp4">
+                </video>
+                <br> <br>
+
+                <video wwidth="340%" height="245%" controls>
+
+                    <source src="sample.mp4" type="video/mp4">
+                </video>
+           <br> <br>
+
+                <table style="width= 80">
+                    <tr>
+                        <th>Student Name</th>
+                        <th>Roll No.</th>
+                        <th>Age</th>
+                    </tr>
+
+                    <tr>
+                        <td>Richa Patel</td>
+                        <td>1816110157</td>
+                        <td>21</td>
+                    </tr>
+
+                    <tr>
+                        <td>ram</td>
+                        <td>1816110155</td>
+                        <td>19</td>
+                     </tr>
+
+                    <tr>
+                        <td> Sakshi Bansal</td>
+                        <td>1816110175</td>
+                        <td>19</td>
+                    </tr>
+                </table>
+                <br> <br>
+
+            
+                <list>
+                    <ul>
+                        <li>Coffee</li>
+                        <li>cold drink</li>
+                        <li>cold cofee</li>
+                      </ul>
+
+                      <ol>
+                        <li>Coffee</li>
+                        <li>cold drink</li>
+                        <li>cold Coffee</li>
+                      </ul>
+                </list>
+
+                
+        
+
+
+
+    </body> 
